@@ -1,10 +1,3 @@
-This script reproduces the entire experimental workflow, including:
-1. Synthetic document generation (SD-GAN)
-2. Preprocessing of generated data
-3. OCR model training (ML, DL, SD-GAN–enhanced)
-4. Evaluation using PSNR, SSIM, CER, and WER
-5. Saving all results for verification
-
 # Synthetic data generation
 # from src.generation.generator import generate_synthetic_documents
 
