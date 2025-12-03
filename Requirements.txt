@@ -1,0 +1,25 @@
+numpy
+pandas
+opencv-python
+pillow
+matplotlib
+scikit-image
+scikit-learn
+tqdm
+pyyaml
+
+# Deep Learning Framework (GAN + OCR models)
+torch
+torchvision
+
+# GAN utilities
+einops
+
+# OCR-related tools
+pytesseract
+
+# Evaluation metrics
+python-Levenshtein
+
+# Notebook support
+jupyter
